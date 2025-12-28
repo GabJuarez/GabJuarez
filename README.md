@@ -12,7 +12,7 @@ I’m a curious developer exploring low-level and high-level programming, buildi
 ### What I'm Up To
 - Practicing fundamentals through small, focused exercises.
 - Gradually building projects to apply what I learn.
-- Open to collaborating on beginner-friendly C/Python ideas.
+- Open to collaborating on beginner-friendly Python ideas.
 
 ### Get In Touch
 [![Email](https://img.shields.io/badge/Email-juarezgabriel742%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juarezgabriel742@gmail.com)
