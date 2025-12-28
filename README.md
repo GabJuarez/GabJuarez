@@ -1,4 +1,4 @@
-## Hi there, I'm GabJuarez 👋
+## Hi there, I'm Gabriel Juárez 👋
 
 I’m a curious developer exploring low-level and high-level programming, building small projects, and strengthening core CS fundamentals.
 
@@ -15,8 +15,6 @@ I’m a curious developer exploring low-level and high-level programming, buildi
 - Open to collaborating on beginner-friendly C/Python ideas.
 
 ### Get In Touch
-**Contact:** juarezgabriel742@gmail.com
-
 [![Email](https://img.shields.io/badge/Email-juarezgabriel742%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juarezgabriel742@gmail.com)
 
 
