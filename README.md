@@ -3,7 +3,7 @@
 I’m a curious developer exploring low-level and high-level programming, building small projects, and strengthening core CS fundamentals.
 
 ### Tech Stack
-![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ### Currently Learning
 
