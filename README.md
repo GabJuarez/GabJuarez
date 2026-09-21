@@ -13,7 +13,6 @@ I’m a curious developer exploring low-level and high-level programming, buildi
 - Practicing fundamentals through small, focused exercises.
 - Gradually building projects to apply what I learn.
 
-### Get In Touch
-[![Email](https://img.shields.io/badge/Email-juarezgabriel742%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juarezgabriel742@gmail.com)
+
 
 
