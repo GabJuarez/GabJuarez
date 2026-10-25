@@ -1,4 +1,2 @@
 - Hi, I'm Gabriel 👋
 - I'm currently learning go and vue
-- Building ...?
-- 🦷 ??
